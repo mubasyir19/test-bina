@@ -29,7 +29,7 @@ export default function Home() {
                 <h1 className='text-gradient text-primary mb-4'>Bina Al Insan</h1>
                 <p className='lead pe-5 me-5'>
                   Yayasan BINA AL INSAN BREBES berkiprah di bidang sosial keagamaan dan kemanusiaan, didirikan
-                  berdasarkan hukum di Republik Indonesia pada tangal 20 Oktober 2022.{' '}
+                  berdasarkan hukum di Republik Indonesia pada tanggal 20 Oktober 2022.{' '}
                 </p>
                 <div className='buttons'>
                   <button type='button' className='btn bg-gradient-primary mt-4'>
