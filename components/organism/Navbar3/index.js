@@ -236,166 +236,11 @@ export default function index() {
                     </div>
                   </li>
 
-                  {/* <li className='nav-item dropdown dropdown-hover mx-2'>
-                    <a
-                      className='nav-link ps-2 d-flex justify-content-between cursor-pointer align-items-center'
-                      href='javascript:;'
-                      id='dropdownMenuDocs'
-                      data-bs-toggle='dropdown'
-                      aria-expanded='false'
-                    >
-                      Event
-                    </a>
-                    <div
-                      className='dropdown-menu dropdown-menu-animation dropdown-lg mt-0 mt-lg-3 p-3 border-radius-lg'
-                      aria-labelledby='dropdownMenuDocs'
-                    >
-                      <div className='d-none d-lg-block'>
-                        <ul className='list-group'>
-                          <li className='nav-item list-group-item border-0 p-0'>
-                            <a
-                              className='dropdown-item py-2 ps-3 border-radius-md'
-                              href=' https://www.creative-tim.com/learning-lab/bootstrap/license/soft-ui-design-system '
-                            >
-                              <div className='d-flex'>
-                                <div className='icon h-10 me-3 d-flex mt-1'></div>
-                                <div>
-                                  <h6 className='dropdown-header text-dark font-weight-bolder d-flex justify-content-cente align-items-center p-0'>
-                                    Getting Started
-                                  </h6>
-                                  <span className='text-sm'>All about overview, quick start, license and contents</span>
-                                </div>
-                              </div>
-                            </a>
-                          </li>
-                          <li className='nav-item list-group-item border-0 p-0'>
-                            <a className='dropdown-item py-2 ps-3 border-radius-md' href='  '>
-                              <div className='d-flex'>
-                                <div className='icon h-10 me-3 d-flex mt-1'></div>
-                                <div>
-                                  <h6 className='dropdown-header text-dark font-weight-bolder d-flex justify-content-cente align-items-center p-0'>
-                                    Foundation
-                                  </h6>
-                                  <span className='text-sm'>See our colors, icons and typography</span>
-                                </div>
-                              </div>
-                            </a>
-                          </li>
-                          <li className='nav-item list-group-item border-0 p-0'>
-                            <a className='dropdown-item py-2 ps-3 border-radius-md' href='  '>
-                              <div className='d-flex'>
-                                <div className='icon h-10 me-3 d-flex mt-1'></div>
-                                <div>
-                                  <h6 className='dropdown-header text-dark font-weight-bolder d-flex justify-content-cente align-items-center p-0'>
-                                    Components
-                                  </h6>
-                                  <span className='text-sm'>Explore our collection of fully designed components</span>
-                                </div>
-                              </div>
-                            </a>
-                          </li>
-                          <li className='nav-item list-group-item border-0 p-0'>
-                            <a className='dropdown-item py-2 ps-3 border-radius-md' href='  '>
-                              <div className='d-flex'>
-                                <div className='icon h-10 me-3 d-flex mt-1'></div>
-                                <div>
-                                  <h6 className='dropdown-header text-dark font-weight-bolder d-flex justify-content-cente align-items-center p-0'>
-                                    Plugins
-                                  </h6>
-                                  <span className='text-sm'>Check how you can integrate our plugins</span>
-                                </div>
-                              </div>
-                            </a>
-                          </li>
-                          <li className='nav-item list-group-item border-0 p-0'>
-                            <a className='dropdown-item py-2 ps-3 border-radius-md' href='  '>
-                              <div className='d-flex'>
-                                <div className='icon h-10 me-3 d-flex mt-1'></div>
-                                <div>
-                                  <h6 className='dropdown-header text-dark font-weight-bolder d-flex justify-content-cente align-items-center p-0'>
-                                    Utility classNamees
-                                  </h6>
-                                  <span className='text-sm'>
-                                    For those who want flexibility, use our utility classNamees
-                                  </span>
-                                </div>
-                              </div>
-                            </a>
-                          </li>
-                        </ul>
-                      </div>
-
-                      <div className='row d-lg-none'>
-                        <div className='col-md-12 g-0'>
-                          <a className='dropdown-item py-2 ps-3 border-radius-md' href='./pages/about-us.html'>
-                            <div className='d-flex'>
-                              <div className='icon h-10 me-3 d-flex mt-1'></div>
-                              <div>
-                                <h6 className='dropdown-header text-dark font-weight-bolder d-flex justify-content-cente align-items-center p-0'>
-                                  Getting Started
-                                </h6>
-                                <span className='text-sm'>All about overview, quick start, license and contents</span>
-                              </div>
-                            </div>
-                          </a>
-
-                          <a className='dropdown-item py-2 ps-3 border-radius-md' href='./pages/about-us.html'>
-                            <div className='d-flex'>
-                              <div className='icon h-10 me-3 d-flex mt-1'></div>
-                              <div>
-                                <h6 className='dropdown-header text-dark font-weight-bolder d-flex justify-content-cente align-items-center p-0'>
-                                  Foundation
-                                </h6>
-                                <span className='text-sm'>See our colors, icons and typography</span>
-                              </div>
-                            </div>
-                          </a>
-
-                          <a className='dropdown-item py-2 ps-3 border-radius-md' href='./pages/about-us.html'>
-                            <div className='d-flex'>
-                              <div className='icon h-10 me-3 d-flex mt-1'></div>
-                              <div>
-                                <h6 className='dropdown-header text-dark font-weight-bolder d-flex justify-content-cente align-items-center p-0'>
-                                  Components
-                                </h6>
-                                <span className='text-sm'>Explore our collection of fully designed components</span>
-                              </div>
-                            </div>
-                          </a>
-
-                          <a className='dropdown-item py-2 ps-3 border-radius-md' href='./pages/about-us.html'>
-                            <div className='d-flex'>
-                              <div className='icon h-10 me-3 d-flex mt-1'></div>
-                              <div>
-                                <h6 className='dropdown-header text-dark font-weight-bolder d-flex justify-content-cente align-items-center p-0'>
-                                  Plugins
-                                </h6>
-                                <span className='text-sm'>Check how you can integrate our plugins</span>
-                              </div>
-                            </div>
-                          </a>
-
-                          <a className='dropdown-item py-2 ps-3 border-radius-md' href='./pages/about-us.html'>
-                            <div className='d-flex'>
-                              <div className='icon h-10 me-3 d-flex mt-1'></div>
-                              <div>
-                                <h6 className='dropdown-header text-dark font-weight-bolder d-flex justify-content-cente align-items-center p-0'>
-                                  Utility classNamees
-                                </h6>
-                                <span className='text-sm'>All about overview, quick start, license and contents</span>
-                              </div>
-                            </div>
-                          </a>
-                        </div>
-                      </div>
-                    </div>
-                  </li>
-
                   <Link className='nav-item mx-2' href='/artikel'>
                     <span class='nav-link ps-2 d-flex justify-content-between cursor-pointer align-items-center'>
                       Artikel
                     </span>
-                  </Link> */}
+                  </Link>
 
                   <Link className='nav-item mx-2' href='/kontak'>
                     <span class='nav-link ps-2 d-flex justify-content-between cursor-pointer align-items-center'>
@@ -403,17 +248,12 @@ export default function index() {
                     </span>
                   </Link>
 
-                  <Link
-                    className='nav-item ms-lg-auto'
-                    href='https://www.creative-tim.com/product/soft-ui-design-system-pro'
-                  >
-                    <span className='btn btn-sm bg-gradient-primary btn-round mb-0 me-1 mt-2 mt-md-0'>Profil Kami</span>
+                  <Link className='nav-item ms-lg-auto' href='/profil'>
+                    <span className='btn btn-sm btn-outline-primary btn-round mb-0 me-1 mt-2 mt-md-0'>Event</span>
                   </Link>
-                  <Link
-                    className='nav-item my-auto ms-3 ms-lg-0'
-                    href='https://www.creative-tim.com/builder/soft-ui-design-system'
-                  >
-                    <span className='btn btn-sm btn-outline-primary btn-round mb-0 me-1 mt-2 mt-md-0'>Koperasi</span>
+
+                  <Link className='nav-item my-auto ms-3 ms-lg-0' href='/event'>
+                    <span className='btn btn-sm bg-gradient-primary btn-round mb-0 me-1 mt-2 mt-md-0'>Profil Kami</span>
                   </Link>
                   {/* <li className='nav-item my-auto ms-3 ms-lg-0'>
                     <a
