@@ -759,7 +759,7 @@ export default function index() {
                     </span>
                   </Link>
 
-                  <Link className='nav-item mx-2' href='/contact'>
+                  <Link className='nav-item mx-2' href='/kontak'>
                     <span class='nav-link ps-2 d-flex justify-content-between cursor-pointer align-items-center'>
                       Kontak
                     </span>
