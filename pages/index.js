@@ -25,8 +25,8 @@ export default function Home() {
           <div className='container'>
             <div className='row'>
               <div className='col-lg-6 col-md-7 d-flex justify-content-center flex-column'>
-                <h1 className='mb-4'>Yayasan</h1>
-                <h1 className='text-gradient text-primary'>Bina Al Insan</h1>
+                <h1 className=''>Yayasan</h1>
+                <h1 className='text-gradient text-primary mb-4'>Bina Al Insan</h1>
                 <p className='lead pe-5 me-5'>
                   Yayasan BINA AL INSAN BREBES berkiprah di bidang sosial keagamaan dan kemanusiaan, didirikan
                   berdasarkan hukum di Republik Indonesia pada tangal 20 Oktober 2022.{' '}
