@@ -8,7 +8,8 @@ export default function index() {
         <div class=' row'>
           <div class='col-md-3 mb-4 ms-auto'>
             <div>
-              <h6 class='text-gradient text-primary font-weight-bolder'>Yayasan Bina Al Insan</h6>
+              <img src='https://www.binaalinsan.id/wp-content/uploads/2023/03/logo-binaalinsan.png' alt='logo' />
+              <h6 class='text-gradient text-primary text-lg font-weight-bolder'>Yayasan Bina Al Insan</h6>
             </div>
             <div>
               <h6 class='mt-3 mb-2 opacity-8'>Social</h6>
@@ -146,11 +147,10 @@ export default function index() {
           <div class='col-12'>
             <div class='text-center'>
               <p class='my-4 text-sm'>
-                All rights reserved. Copyright © 2023 Soft UI Design System by{' '}
-                <a href='https://www.creative-tim.com' target='_blank'>
-                  Creative Tim
-                </a>
-                .
+                © 2023 Yayasan Bina Al Insan{' '}
+                {/* <a href='#' target='_blank'>
+                  karya Muda
+                </a> */}
               </p>
             </div>
           </div>
