@@ -13,8 +13,8 @@ export default function Home() {
   return (
     <>
       {/* <!-- -------- START HEADER 1 w/ text and image on right ------- --> */}
+      <Navbar3 />
       <header>
-        <Navbar3 />
         <div className='page-header min-vh-100'>
           <div className='oblique position-absolute top-0 h-100 d-md-block d-none'>
             <div
