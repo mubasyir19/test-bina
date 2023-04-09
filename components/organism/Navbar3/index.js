@@ -248,11 +248,11 @@ export default function index() {
                     </span>
                   </Link>
 
-                  <Link className='nav-item ms-lg-auto' href='/profil'>
+                  <Link className='nav-item ms-lg-auto' href='/event'>
                     <span className='btn btn-sm btn-outline-primary btn-round mb-0 me-1 mt-2 mt-md-0'>Event</span>
                   </Link>
 
-                  <Link className='nav-item my-auto ms-3 ms-lg-0' href='/event'>
+                  <Link className='nav-item my-auto ms-3 ms-lg-0' href='/profil'>
                     <span className='btn btn-sm bg-gradient-primary btn-round mb-0 me-1 mt-2 mt-md-0'>Profil Kami</span>
                   </Link>
                   {/* <li className='nav-item my-auto ms-3 ms-lg-0'>
