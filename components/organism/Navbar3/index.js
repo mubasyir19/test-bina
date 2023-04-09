@@ -57,7 +57,7 @@ export default function index() {
                       aria-expanded='false'
                     >
                       Program
-                      {/* <img src='./assets/img/down-arrow-dark.svg' alt='down-arrow' className='arrow ms-1' /> */}
+                      <img src='/img/down-arrow-dark.svg' alt='down-arrow' class='arrow ms-1'></img>
                     </a>
                     <div
                       className='dropdown-menu dropdown-menu-animation dropdown-md p-3 border-radius-lg mt-0 mt-lg-3'
