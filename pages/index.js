@@ -25,10 +25,11 @@ export default function Home() {
           <div class='container'>
             <div class='row'>
               <div class='col-lg-6 col-md-7 d-flex justify-content-center flex-column'>
-                <h1 class='text-gradient text-primary'>Your Work With</h1>
-                <h1 class='mb-4'>Soft Design System</h1>
+                <h1 class='mb-4'>Yayasan</h1>
+                <h1 class='text-gradient text-primary'>Bina Al Insan</h1>
                 <p class='lead pe-5 me-5'>
-                  The time is now for it be okay to be great. People in this world shun people for being nice.{' '}
+                  Yayasan BINA AL INSAN BREBES berkiprah di bidang sosial keagamaan dan kemanusiaan, didirikan
+                  berdasarkan hukum di Republik Indonesia pada tangal 20 Oktober 2022.{' '}
                 </p>
                 <div class='buttons'>
                   <button type='button' class='btn bg-gradient-primary mt-4'>
