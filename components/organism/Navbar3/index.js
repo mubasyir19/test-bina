@@ -41,6 +41,11 @@ export default function index() {
                       Beranda
                     </span>
                   </Link>
+                  <Link className='nav-item mx-2' href='/profil'>
+                    <span class='nav-link ps-2 d-flex justify-content-between cursor-pointer align-items-center'>
+                      Profil
+                    </span>
+                  </Link>
                   <li className='nav-item dropdown dropdown-hover mx-2'>
                     <a
                       className='nav-link ps-2 d-flex justify-content-between cursor-pointer align-items-center'
@@ -777,9 +782,7 @@ export default function index() {
                     className='nav-item my-auto ms-3 ms-lg-0'
                     href='https://www.creative-tim.com/builder/soft-ui-design-system'
                   >
-                    <span className='btn btn-sm btn-outline-primary btn-round mb-0 me-1 mt-2 mt-md-0'>
-                      Online Builder
-                    </span>
+                    <span className='btn btn-sm btn-outline-primary btn-round mb-0 me-1 mt-2 mt-md-0'>Koperasi</span>
                   </Link>
                   {/* <li className='nav-item my-auto ms-3 ms-lg-0'>
                     <a

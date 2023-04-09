@@ -19,7 +19,7 @@ export default function Home() {
           <div className='oblique position-absolute top-0 h-100 d-md-block d-none'>
             <div
               className='oblique-image bg-cover position-absolute fixed-top ms-auto h-100 z-index-0 ms-n6'
-              style={{ backgroundImage: '../assets/img/curved-images/curved11.jpg' }}
+              style={{ backgroundImage: "url('/img/curved-images/curved11.jpg')" }}
             ></div>
           </div>
           <div className='container'>

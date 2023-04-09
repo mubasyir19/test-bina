@@ -21406,7 +21406,7 @@ fieldset:disabled .btn {
 
 .oblique .oblique-image {
   transform: skewX(10deg);
-  background-image: url('../img/curved-images/curved11.jpg');
+  /* background-image: url('../img/curved-images/curved11.jpg'); */
 }
 
 .fixed-plugin .fixed-plugin-button {
