@@ -2,10 +2,14 @@ import React from 'react';
 import Navbar3 from '../components/organism/Navbar3';
 import Footer from '../components/organism/Footer';
 import Image from 'next/image';
+import Head from 'next/head';
 
 export default function Contact() {
   return (
     <>
+      <Head>
+        <title>Kontak - Bina Al Insan</title>
+      </Head>
       <Navbar3 />
       <header>
         <div className='page-header min-vh-85'>

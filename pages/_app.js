@@ -4,6 +4,9 @@ export default function App({ Component, pageProps }) {
   return (
     <>
       <Head>
+        {/* Icon Tab */}
+        <link rel='icon' href='https://www.binaalinsan.id/wp-content/uploads/2023/03/logo-binaalinsan.png' />
+
         {/* <!--     Fonts and icons     --> */}
         <link href='https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700' rel='stylesheet' />
 

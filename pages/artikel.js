@@ -1,5 +1,13 @@
+import Head from 'next/head';
 import React from 'react';
 
 export default function Artikel() {
-  return <div>Artikel</div>;
+  return (
+    <>
+      <Head>
+        <title>Artikel - Bina Al Insan</title>
+      </Head>
+      <div>Artikel</div>
+    </>
+  );
 }

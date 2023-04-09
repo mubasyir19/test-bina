@@ -12,6 +12,9 @@ const inter = Inter({ subsets: ['latin'] });
 export default function Home() {
   return (
     <>
+      <Head>
+        <title>Beranda - Bina Al Insan</title>
+      </Head>
       {/* <!-- -------- START HEADER 1 w/ text and image on right ------- --> */}
       <Navbar3 />
       <header>
