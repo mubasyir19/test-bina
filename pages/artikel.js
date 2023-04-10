@@ -1,6 +1,7 @@
 import Head from 'next/head';
 import React from 'react';
 import Navbar3 from '../components/organism/Navbar3';
+import Footer from '../components/organism/Footer';
 
 export default function Artikel() {
   return (
@@ -280,6 +281,9 @@ export default function Artikel() {
         </div>
       </section>
       {/* end of Artikel */}
+
+      {/* Footer */}
+      <Footer />
     </>
   );
 }
