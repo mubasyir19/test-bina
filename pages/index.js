@@ -79,6 +79,187 @@ export default function Home() {
         </div>
       </header> */}
 
+      <section className='mt-5'>
+        <div className='container'>
+          <div class='row'>
+            <div class='col-lg-6 mx-auto text-center'>
+              <h2 class='mb-0'>Trusted by over</h2>
+              <h2 class='text-gradient text-primary mb-3'>1,435,000 web developers</h2>
+              <p class='lead'>
+                Many Fortune 500 companies, startups, universities and governmental institutions love Creative Tim's
+                products.{' '}
+              </p>
+            </div>
+          </div>
+          <div className='row'>
+            <div className='col-lg-4'>
+              <div className='info-horizontal bg-gradient-primary border-radius-xl p-5'>
+                <div className='icon'>
+                  <svg
+                    className='text-white'
+                    width='25px'
+                    height='25px'
+                    viewBox='0 0 46 43'
+                    version='1.1'
+                    xmlns='http://www.w3.org/2000/svg'
+                    xmlnsXlink='http://www.w3.org/1999/xlink'
+                  >
+                    <title>delivery-fast</title>
+                    <g stroke='none' strokeWidth='1' fill='none' fillRule='evenodd'>
+                      <g transform='translate(-2320.000000, -741.000000)' fill='#FFFFFF' fillRule='nonzero'>
+                        <g transform='translate(1716.000000, 291.000000)'>
+                          <g id='delivery-fast' transform='translate(604.000000, 450.000000)'>
+                            <rect
+                              className='color-background'
+                              opacity='0.601143973'
+                              x='0'
+                              y='0'
+                              width='17.25'
+                              height='3.83333333'
+                            ></rect>
+                            <rect
+                              className='color-background'
+                              opacity='0.601143973'
+                              x='3.83333333'
+                              y='7.66666667'
+                              width='13.4166667'
+                              height='3.83333333'
+                            ></rect>
+                            <rect
+                              className='color-background'
+                              opacity='0.601143973'
+                              x='7.66666667'
+                              y='15.3333333'
+                              width='9.58333333'
+                              height='3.83333333'
+                            ></rect>
+                            <rect
+                              className='color-background'
+                              opacity='0.601888021'
+                              x='11.5'
+                              y='23'
+                              width='5.75'
+                              height='3.83333333'
+                            ></rect>
+                            <path
+                              className='color-foreground'
+                              d='M44.9400833,19.3679167 L38.0611667,15.9294167 L36.3591667,9.1195 C36.1464167,8.26466667 35.37975,7.66666667 34.5,7.66666667 L31.3854167,7.66666667 L21.0833333,7.66666667 C21.0833333,7.66666667 21.0833333,31.5310833 21.0833333,32.5833333 C21.0833333,33.6355833 21.1810833,34.5 21.1810833,34.5 C21.6640833,38.801 25.2808333,42.1666667 29.7083333,42.1666667 C34.1358333,42.1666667 37.7525833,38.801 38.2355833,34.5 L44.0833333,34.5 C45.1413333,34.5 46,33.6413333 46,32.5833333 L46,21.0833333 C46,20.3569167 45.5898333,19.69375 44.9400833,19.3679167 Z M29.7083333,38.3333333 C27.0671667,38.3333333 24.9166667,36.18475 24.9166667,33.5416667 C24.9166667,30.8985833 27.0671667,28.75 29.7083333,28.75 C32.3495,28.75 34.5,30.8985833 34.5,33.5416667 C34.5,36.18475 32.3495,38.3333333 29.7083333,38.3333333 Z M24.9166667,17.25 L24.9166667,11.5 L33.2426667,11.5 L34.5,17.25 L24.9166667,17.25 Z'
+                            ></path>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </svg>
+                </div>
+                <div className='description ps-5'>
+                  <h5 className='text-white'>Getting Started</h5>
+                  <p className='text-white'>
+                    Check the possible ways of working with our product and the necessary files for building your own
+                    project.
+                  </p>
+                  <a
+                    href='https://www.creative-tim.com/learning-lab/bootstrap/license/soft-ui-design-system'
+                    className='text-white icon-move-right'
+                  >
+                    Let's start
+                    <i className='fas fa-arrow-right text-sm ms-1'></i>
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div className='col-lg-4 px-lg-1 mt-lg-0 mt-4'>
+              <div className='info-horizontal bg-gray-100 border-radius-xl p-5'>
+                <div className='icon'>
+                  <svg
+                    className='text-primary'
+                    width='25px'
+                    height='25px'
+                    viewBox='0 0 40 44'
+                    version='1.1'
+                    xmlns='http://www.w3.org/2000/svg'
+                    xmlnsXlink='http://www.w3.org/1999/xlink'
+                  >
+                    <title>document</title>
+                    <g stroke='none' strokeWidth='1' fill='none' fillRule='evenodd'>
+                      <g transform='translate(-1870.000000, -591.000000)' fill='#FFFFFF' fillRule='nonzero'>
+                        <g transform='translate(1716.000000, 291.000000)'>
+                          <g transform='translate(154.000000, 300.000000)'>
+                            <path
+                              className='color-foreground'
+                              d='M40,40 L36.3636364,40 L36.3636364,3.63636364 L5.45454545,3.63636364 L5.45454545,0 L38.1818182,0 C39.1854545,0 40,0.814545455 40,1.81818182 L40,40 Z'
+                              opacity='0.603585379'
+                            ></path>
+                            <path
+                              className='color-background'
+                              d='M30.9090909,7.27272727 L1.81818182,7.27272727 C0.814545455,7.27272727 0,8.08727273 0,9.09090909 L0,41.8181818 C0,42.8218182 0.814545455,43.6363636 1.81818182,43.6363636 L30.9090909,43.6363636 C31.9127273,43.6363636 32.7272727,42.8218182 32.7272727,41.8181818 L32.7272727,9.09090909 C32.7272727,8.08727273 31.9127273,7.27272727 30.9090909,7.27272727 Z M18.1818182,34.5454545 L7.27272727,34.5454545 L7.27272727,30.9090909 L18.1818182,30.9090909 L18.1818182,34.5454545 Z M25.4545455,27.2727273 L7.27272727,27.2727273 L7.27272727,23.6363636 L25.4545455,23.6363636 L25.4545455,27.2727273 Z M25.4545455,20 L7.27272727,20 L7.27272727,16.3636364 L25.4545455,16.3636364 L25.4545455,20 Z'
+                            ></path>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </svg>
+                </div>
+                <div className='description ps-5'>
+                  <h5>Plugins</h5>
+                  <p>
+                    Get inspiration and have an overview about the plugins that we used to create the Soft UI Design
+                    System.
+                  </p>
+                  <a href='' className='text-primary icon-move-right'>
+                    Read more
+                    <i className='fas fa-arrow-right text-sm ms-1'></i>
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div className='col-lg-4 mt-lg-0 mt-4'>
+              <div className='info-horizontal bg-gray-100 border-radius-xl p-5'>
+                <div className='icon'>
+                  <svg
+                    className='text-primary'
+                    width='25px'
+                    height='25px'
+                    viewBox='0 0 40 40'
+                    version='1.1'
+                    xmlns='http://www.w3.org/2000/svg'
+                    xmlnsXlink='http://www.w3.org/1999/xlink'
+                  >
+                    <title>ungroup</title>
+                    <g stroke='none' strokeWidth='1' fill='none' fillRule='evenodd'>
+                      <g transform='translate(-2170.000000, -442.000000)' fill='#FFFFFF' fillRule='nonzero'>
+                        <g transform='translate(1716.000000, 291.000000)'>
+                          <g id='ungroup' transform='translate(454.000000, 151.000000)'>
+                            <path
+                              className='color-background'
+                              d='M38.1818182,10.9090909 L32.7272727,10.9090909 L32.7272727,30.9090909 C32.7272727,31.9127273 31.9127273,32.7272727 30.9090909,32.7272727 L10.9090909,32.7272727 L10.9090909,38.1818182 C10.9090909,39.1854545 11.7236364,40 12.7272727,40 L38.1818182,40 C39.1854545,40 40,39.1854545 40,38.1818182 L40,12.7272727 C40,11.7236364 39.1854545,10.9090909 38.1818182,10.9090909 Z'
+                            ></path>
+                            <path
+                              className='color-foreground'
+                              d='M27.2727273,29.0909091 L1.81818182,29.0909091 C0.812727273,29.0909091 0,28.2781818 0,27.2727273 L0,1.81818182 C0,0.814545455 0.812727273,0 1.81818182,0 L27.2727273,0 C28.2781818,0 29.0909091,0.814545455 29.0909091,1.81818182 L29.0909091,27.2727273 C29.0909091,28.2781818 28.2781818,29.0909091 27.2727273,29.0909091 Z'
+                            ></path>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </svg>
+                </div>
+                <div className='description ps-5'>
+                  <h5>Utility Classes</h5>
+                  <p>
+                    Soft UI Design System is giving you a lot of pre-made elements. For those who want flexibility, we
+                    included many utility classes.
+                  </p>
+                  <a href='' className='text-primary icon-move-right'>
+                    Read more
+                    <i className='fas fa-arrow-right text-sm ms-1'></i>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
       <section className='my-5 py-5'>
         <div className='container'>
           <div className='row align-items-center'>
@@ -87,18 +268,18 @@ export default function Home() {
                 <div className='col-md-6'>
                   <div className='info'>
                     <div className='icon icon-sm'>
-                      {/* <svg
+                      <svg
                         className='text-primary'
                         width='25px'
                         height='25px'
                         viewBox='0 0 40 44'
                         version='1.1'
                         xmlns='http://www.w3.org/2000/svg'
-                        xmlns:xlink='http://www.w3.org/1999/xlink'
+                        xmlnsXlink='http://www.w3.org/1999/xlink'
                       >
                         <title>document</title>
-                        <g stroke='none' stroke-width='1' fill='none' fill-rule='evenodd'>
-                          <g transform='translate(-1870.000000, -591.000000)' fill='#FFFFFF' fill-rule='nonzero'>
+                        <g stroke='none' strokeWidth='1' fill='none' fillRule='evenodd'>
+                          <g transform='translate(-1870.000000, -591.000000)' fill='#FFFFFF' fillRule='nonzero'>
                             <g transform='translate(1716.000000, 291.000000)'>
                               <g transform='translate(154.000000, 300.000000)'>
                                 <path
@@ -114,7 +295,7 @@ export default function Home() {
                             </g>
                           </g>
                         </g>
-                      </svg> */}
+                      </svg>
                     </div>
                     <h5 className='font-weight-bolder mt-3'>Full Documentation</h5>
                     <p className='pe-5'>
@@ -126,18 +307,18 @@ export default function Home() {
                 <div className='col-md-6'>
                   <div className='info'>
                     <div className='icon icon-sm'>
-                      {/* <svg
+                      <svg
                         className='text-primary'
                         width='25px'
                         height='25px'
                         viewBox='0 0 45 40'
                         version='1.1'
                         xmlns='http://www.w3.org/2000/svg'
-                        xmlns:xlink='http://www.w3.org/1999/xlink'
+                        xmlnsXlink='http://www.w3.org/1999/xlink'
                       >
                         <title>shop </title>
-                        <g stroke='none' stroke-width='1' fill='none' fill-rule='evenodd'>
-                          <g transform='translate(-1716.000000, -439.000000)' fill='#FFFFFF' fill-rule='nonzero'>
+                        <g stroke='none' strokeWidth='1' fill='none' fillRule='evenodd'>
+                          <g transform='translate(-1716.000000, -439.000000)' fill='#FFFFFF' fillRule='nonzero'>
                             <g transform='translate(1716.000000, 291.000000)'>
                               <g id='shop-' transform='translate(0.000000, 148.000000)'>
                                 <path
@@ -153,7 +334,7 @@ export default function Home() {
                             </g>
                           </g>
                         </g>
-                      </svg> */}
+                      </svg>
                     </div>
 
                     <h5 className='font-weight-bolder mt-3'>Bootstrap 5 Ready</h5>
@@ -167,18 +348,18 @@ export default function Home() {
                 <div className='col-md-6 mt-3'>
                   <div className='info'>
                     <div className='icon icon-sm'>
-                      {/* <svg
+                      <svg
                         className='text-primary'
                         width='25px'
                         height='25px'
                         viewBox='0 0 42 44'
                         version='1.1'
                         xmlns='http://www.w3.org/2000/svg'
-                        xmlns:xlink='http://www.w3.org/1999/xlink'
+                        xmlnsXlink='http://www.w3.org/1999/xlink'
                       >
                         <title>time-alarm</title>
-                        <g stroke='none' stroke-width='1' fill='none' fill-rule='evenodd'>
-                          <g transform='translate(-2319.000000, -440.000000)' fill='#923DFA' fill-rule='nonzero'>
+                        <g stroke='none' strokeWidth='1' fill='none' fillRule='evenodd'>
+                          <g transform='translate(-2319.000000, -440.000000)' fill='#923DFA' fillRule='nonzero'>
                             <g transform='translate(1716.000000, 291.000000)'>
                               <g id='time-alarm' transform='translate(603.000000, 149.000000)'>
                                 <path
@@ -199,7 +380,7 @@ export default function Home() {
                             </g>
                           </g>
                         </g>
-                      </svg> */}
+                      </svg>
                     </div>
 
                     <h5 className='font-weight-bolder mt-3'>Save Time & Money</h5>
@@ -212,18 +393,18 @@ export default function Home() {
                 <div className='col-md-6 mt-3'>
                   <div className='info'>
                     <div className='icon icon-sm'>
-                      {/* <svg
+                      <svg
                         className='text-primary'
                         width='25px'
                         height='25px'
                         viewBox='0 0 42 42'
                         version='1.1'
                         xmlns='http://www.w3.org/2000/svg'
-                        xmlns:xlink='http://www.w3.org/1999/xlink'
+                        xmlnsXlink='http://www.w3.org/1999/xlink'
                       >
                         <title>office</title>
-                        <g stroke='none' stroke-width='1' fill='none' fill-rule='evenodd'>
-                          <g transform='translate(-1869.000000, -293.000000)' fill='#FFFFFF' fill-rule='nonzero'>
+                        <g stroke='none' strokeWidth='1' fill='none' fillRule='evenodd'>
+                          <g transform='translate(-1869.000000, -293.000000)' fill='#FFFFFF' fillRule='nonzero'>
                             <g transform='translate(1716.000000, 291.000000)'>
                               <g id='office' transform='translate(153.000000, 2.000000)'>
                                 <path
@@ -239,7 +420,7 @@ export default function Home() {
                             </g>
                           </g>
                         </g>
-                      </svg> */}
+                      </svg>
                     </div>
 
                     <h5 className='font-weight-bolder mt-3'>Fully Responsive</h5>
@@ -262,17 +443,17 @@ export default function Home() {
                 ></div>
                 <div className='card-body pt-7 text-center'>
                   <div className='icon icon-lg up mb-3 mt-3'>
-                    {/* <svg
+                    <svg
                       width='50px'
                       height='50px'
                       viewBox='0 0 42 42'
                       version='1.1'
                       xmlns='http://www.w3.org/2000/svg'
-                      xmlns:xlink='http://www.w3.org/1999/xlink'
+                      xmlnsXlink='http://www.w3.org/1999/xlink'
                     >
                       <title>box-3d-50</title>
-                      <g stroke='none' stroke-width='1' fill='none' fill-rule='evenodd'>
-                        <g transform='translate(-2319.000000, -291.000000)' fill='#FFFFFF' fill-rule='nonzero'>
+                      <g stroke='none' strokeWidth='1' fill='none' fillRule='evenodd'>
+                        <g transform='translate(-2319.000000, -291.000000)' fill='#FFFFFF' fillRule='nonzero'>
                           <g transform='translate(1716.000000, 291.000000)'>
                             <g id='box-3d-50' transform='translate(603.000000, 0.000000)'>
                               <path d='M22.7597136,19.3090182 L38.8987031,11.2395234 C39.3926816,10.9925342 39.592906,10.3918611 39.3459167,9.89788265 C39.249157,9.70436312 39.0922432,9.5474453 38.8987261,9.45068056 L20.2741875,0.1378125 L20.2741875,0.1378125 C19.905375,-0.04725 19.469625,-0.04725 19.0995,0.1378125 L3.1011696,8.13815822 C2.60720568,8.38517662 2.40701679,8.98586148 2.6540352,9.4798254 C2.75080129,9.67332903 2.90771305,9.83023153 3.10122239,9.9269862 L21.8652864,19.3090182 C22.1468139,19.4497819 22.4781861,19.4497819 22.7597136,19.3090182 Z'></path>
@@ -288,7 +469,7 @@ export default function Home() {
                           </g>
                         </g>
                       </g>
-                    </svg> */}
+                    </svg>
                   </div>
                   <h2 className='text-white up mb-0'>
                     Feel the <br /> Soft UI Design System
@@ -326,7 +507,7 @@ export default function Home() {
             <div className='col-lg-6 mt-lg-0 mt-5 ps-lg-0 ps-0'>
               <div className='p-3 info-horizontal'>
                 <div className='icon icon-shape rounded-circle bg-gradient-primary shadow text-center'>
-                  <i className='fas fa-ship opacity-10'></i>
+                  <i className='fa fa-ship opacity-10'></i>
                 </div>
                 <div className='description ps-3'>
                   <p className='mb-0'>
@@ -337,7 +518,7 @@ export default function Home() {
 
               <div className='p-3 info-horizontal'>
                 <div className='icon icon-shape rounded-circle bg-gradient-primary shadow text-center'>
-                  <i className='fas fa-handshake opacity-10'></i>
+                  <i className='fa fa-handshake opacity-10'></i>
                 </div>
                 <div className='description ps-3'>
                   <p className='mb-0'>
@@ -348,7 +529,7 @@ export default function Home() {
               </div>
               <div className='p-3 info-horizontal'>
                 <div className='icon icon-shape rounded-circle bg-gradient-primary shadow text-center'>
-                  <i className='fas fa-hourglass opacity-10'></i>
+                  <i className='fa fa-hourglass opacity-10'></i>
                 </div>
                 <div className='description ps-3'>
                   <p className='mb-0'>
@@ -361,6 +542,34 @@ export default function Home() {
         </div>
       </section>
       {/* <!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- --> */}
+
+      <section>
+        <div className='bg-gradient-dark position-relative m-3 border-radius-xl overflow-hidden'>
+          <img
+            src='/img/shapes/waves-white.svg'
+            alt='pattern-lines'
+            className='position-absolute start-0 top-md-0 w-100 opacity-6'
+          />
+          <div className='container py-7 postion-relative z-index-2 position-relative'>
+            <div className='row'>
+              <div className='col-md-7 mx-auto text-center'>
+                <h3 className='text-white mb-0'>Do you love this awesome</h3>
+                <h3 className='text-primary text-gradient mb-4'>Design System for Bootstrap 5?</h3>
+                <p className='text-white mb-5'>
+                  Cause if you do, it can be yours for FREE. Hit the button below to navigate to Creative Tim where you
+                  can find the Design System in HTML. Start a new project or give an old Bootstrap project a new look!
+                </p>
+                <a
+                  href='https://www.creative-tim.com/product/soft-ui-design-system'
+                  className='btn btn-primary btn-lg mb-3 mb-sm-0'
+                >
+                  Download HTML
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
 
       <Footer />
     </>
