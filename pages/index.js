@@ -48,46 +48,15 @@ export default function Home() {
         </div>
       </header>
       {/* <!-- -------- END HEADER 1 w/ text and image on right ------- --> */}
-      {/* <header>
-        <div classNameName='page-header min-vh-100'>
-          <div classNameName='oblique position-absolute top-0 h-100 d-md-block d-none'>
-            <div
-              classNameName='oblique-image bg-cover position-absolute fixed-top ms-auto h-100 z-index-0 ms-n6'
-              style={{ backgroundImage: '../assets/img/curved-images/curved11.jpg' }}
-            ></div>
-          </div>
-          <div classNameName='container'>
-            <div classNameName='row'>
-              <div classNameName='col-lg-6 col-md-7 d-flex justify-content-center flex-column'>
-                <h1 classNameName='mb-4'>Yayasan</h1>
-                <h1 classNameName='text-gradient text-primary'>Bina Al Insan</h1>
-                <p classNameName='lead pe-5 me-5'>
-                  Yayasan BINA AL INSAN BREBES berkiprah di bidang sosial keagamaan dan kemanusiaan, didirikan
-                  berdasarkan hukum di Republik Indonesia pada tangal 20 Oktober 2022.{' '}
-                </p>
-                <div classNameName='buttons'>
-                  <button type='button' classNameName='btn bg-gradient-primary mt-4'>
-                    Get Started
-                  </button>
-                  <button type='button' classNameName='btn text-primary shadow-none mt-4'>
-                    Read more
-                  </button>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </header> */}
 
       <section className='mt-5'>
         <div className='container'>
           <div class='row'>
             <div class='col-lg-6 mx-auto text-center'>
-              <h2 class='mb-0'>Trusted by over</h2>
-              <h2 class='text-gradient text-primary mb-3'>1,435,000 web developers</h2>
+              <h2 class='mb-0 text-lg'>Program</h2>
+              <h2 class='text-gradient text-primary mb-3'>Program Kami</h2>
               <p class='lead'>
-                Many Fortune 500 companies, startups, universities and governmental institutions love Creative Tim's
-                products.{' '}
+                Yayasan Bina Al Insan Brebes berkiprah di bidang <br /> keagamaan, kemanusiaan dan sosial{' '}
               </p>
             </div>
           </div>
@@ -152,16 +121,18 @@ export default function Home() {
                   </svg>
                 </div>
                 <div className='description ps-5'>
-                  <h5 className='text-white'>Getting Started</h5>
-                  <p className='text-white'>
-                    Check the possible ways of working with our product and the necessary files for building your own
-                    project.
-                  </p>
+                  <h5 className='text-white'>Keagamaan</h5>
+                  <p className='text-white'>Menyelenggarakan :</p>
+                  <ul>
+                    <li className='text-white'>Taman Pendidikan Al-Quran (TPQ)</li>
+                    <li className='text-white'>Dakwah</li>
+                    <li className='text-white'>Madrasah</li>
+                  </ul>
                   <a
                     href='https://www.creative-tim.com/learning-lab/bootstrap/license/soft-ui-design-system'
                     className='text-white icon-move-right'
                   >
-                    Let's start
+                    Baca Selengkapnya
                     <i className='fas fa-arrow-right text-sm ms-1'></i>
                   </a>
                 </div>
@@ -200,13 +171,10 @@ export default function Home() {
                   </svg>
                 </div>
                 <div className='description ps-5'>
-                  <h5>Plugins</h5>
-                  <p>
-                    Get inspiration and have an overview about the plugins that we used to create the Soft UI Design
-                    System.
-                  </p>
+                  <h5>Kemanusiaan</h5>
+                  <p>Bidang Kemanusiaan Menggalang, mengumpulkan dan memberikan bantuan kepada korban bencana alam</p>
                   <a href='' className='text-primary icon-move-right'>
-                    Read more
+                    Baca Selengkapnya
                     <i className='fas fa-arrow-right text-sm ms-1'></i>
                   </a>
                 </div>
@@ -244,13 +212,14 @@ export default function Home() {
                   </svg>
                 </div>
                 <div className='description ps-5'>
-                  <h5>Utility Classes</h5>
-                  <p>
-                    Soft UI Design System is giving you a lot of pre-made elements. For those who want flexibility, we
-                    included many utility classes.
-                  </p>
+                  <h5>Sosial</h5>
+                  <p>Menyelenggarakan :</p>
+                  <ul>
+                    <li>Play Group</li>
+                    <li>Taman Kanak-Kanak</li>
+                  </ul>
                   <a href='' className='text-primary icon-move-right'>
-                    Read more
+                    Baca Selengkapnya
                     <i className='fas fa-arrow-right text-sm ms-1'></i>
                   </a>
                 </div>

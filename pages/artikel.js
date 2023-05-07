@@ -19,27 +19,21 @@ export default function Artikel() {
           <div className='container'>
             <div className='row justify-content-center'>
               <div className='col-lg-8 text-center mx-auto my-auto'>
-                <h1 className='text-white'>Work with an amazing design</h1>
-                <p className='lead mb-4 text-white opacity-8'>
-                  We’re constantly trying to express ourselves and actualize our dreams. If you have the opportunity to
-                  play this game
-                </p>
-                <button type='submit' className='btn bg-white text-dark'>
+                <h1 className='text-white'>Selamat Datang di Blog Kami !</h1>
+                <p className='lead mb-4 text-white opacity-8'>Jadilah yang Terdepan Dalam Mengetahui Berita Terbaru</p>
+                {/* <button type='submit' className='btn bg-white text-dark'>
                   Create Account
-                </button>
-                <h6 className='text-white mb-2 mt-5'>Find us on</h6>
+                </button> */}
+                <h6 className='text-white mb-2 mt-5'>Kunjungi juga sosial media Kami</h6>
                 <div className='d-flex justify-content-center'>
-                  <a href='javascript:;'>
-                    <i className='fab fa-facebook text-lg text-white me-4'></i>
-                  </a>
                   <a href='javascript:;'>
                     <i className='fab fa-instagram text-lg text-white me-4'></i>
                   </a>
                   <a href='javascript:;'>
-                    <i className='fab fa-twitter text-lg text-white me-4'></i>
+                    <i className='fab fa-facebook text-lg text-white me-4'></i>
                   </a>
                   <a href='javascript:;'>
-                    <i className='fab fa-google-plus text-lg text-white'></i>
+                    <i className='fab fa-twitter text-lg text-white me-4'></i>
                   </a>
                 </div>
               </div>
@@ -76,8 +70,8 @@ export default function Artikel() {
         <div className='container'>
           <div class='row'>
             <div class='col-md-8 mx-auto text-center'>
-              <h6 class='text-gradient text-info text-uppercase'>The Executive Team</h6>
-              <h2>Building the future</h2>
+              <h6 class='text-gradient text-info text-uppercase'>Artikel</h6>
+              <h2>Selamat Membaca !!!</h2>
             </div>
           </div>
           <div className='row mt-5'>
